@@ -1,1 +1,33 @@
-url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2C3ABAD180D2D583178A9012791C4D3871C785AAB0081A14E05803A77A81B8C0 ' },{ ' aspectRatio ' :1.78, ' locales ' :[ ' en ' ], ' masterHeight ' :1080, ' masterId ' : ' AA63E7BDB8C1471F5AE94F15E2A316C9168F44B089F7B6DC51859568A2DBEFBE ' , ' masterWidth ' :1920, ' purpose ' : ' title_treatment_layer ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AA63E7BDB8C1471F5AE94F15E2A316C9168F44B089F7B6DC51859568A2DBEFBE ' },{ ' aspectRatio ' :1.78, ' locales ' :[ ' no ' , ' de ' , ' fi ' , ' sv ' , ' pt-BR ' , ' en ' , ' it ' , ' fr-FR ' , ' da ' , ' es-419 ' , ' nl ' ], ' masterHeight ' :1080, ' masterId ' : ' 77357CD7CBA6646395677D7435DF935EA34A9F8F6AA75DF4C66F419DC596FA08 ' , ' masterWidth ' :1920, ' purpose ' : ' title_treatment ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/77357CD7CBA6646395677D7435DF935EA34A9F8F6AA75DF4C66F419DC596FA08 ' },{ ' aspectRatio ' :3, ' locales ' :[ ' en ' ], ' masterHeight ' :1280, ' masterId ' : ' E06A7ED8644CADAA1E0E5B1BB5F19E59FAB033C8601FC32F1C3EC009BDBE8F75 ' , ' masterWidth ' :3840, ' purpose ' : ' title_treatment_layer ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E06A7ED8644CADAA1E0E5B1BB5F19E59FAB033C8601FC32F1C3EC009BDBE8F75 ' },{ ' aspectRatio ' :0.71, ' locales ' :[ ' de ' , ' no ' , ' sv ' , ' fi ' , ' pt-BR ' , ' en ' , ' it ' , ' fr-FR ' , ' da ' , ' es-419 ' , ' nl ' ], ' masterHeight ' :2818, ' masterId ' : ' DB0CAC94E96452CFB40E62EFC3590255ACA05D5B606647691FD1B1E4A8AD1AC0 ' , ' masterWidth ' :2000, ' purpose ' : ' tile ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/DB0CAC94E96452CFB40E62EFC3590255ACA05D5B606647691FD1B1E4A8AD1AC0 ' },{ ' aspectRatio ' :3.91, ' locales ' :[ ' en ' ], ' masterHeight ' :982, ' masterId ' : ' CD0B7F90EC1D339B0838CA37ECEB6AE5FE0D8B708A2EA1CF464679FD305BE7E0 ' , ' masterWidth ' :3840, ' purpose ' : ' title_treatment_layer ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CD0B7F90EC1D339B0838CA37ECEB6AE5FE0D8B708A2EA1CF464679FD305BE7E0 ' },{ ' aspectRatio ' :1.78, ' locales ' :[ ' de ' , ' no ' , ' sv ' , ' fi ' , ' ko ' , ' zh-HK ' , ' pt-BR ' , ' en ' , ' es-ES ' , ' it ' , ' fr-CA ' , ' zh-Hans ' , ' zh-Hant ' , ' pt-PT ' , ' ja ' , ' fr-FR ' , ' da ' , ' en-GB ' , ' es-419 ' , ' nl ' ], ' masterHeight ' :2160, ' masterId ' : ' D819E054C18572422E89DA5ACDD2B703335E0D4774EBE27FCBCB2DEEF91FCD64 ' , ' masterWidth ' :3840, ' purpose ' : ' background ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D819E054C18572422E89DA5ACDD2B703335E0D4774EBE27FCBCB2DEEF91FCD64 ' },{ ' aspectRatio ' :1.78, ' locales ' :[ ' no ' , ' de ' , ' sv ' , ' fi ' , ' ko ' , ' zh-HK ' , ' pt-BR ' , ' en ' , ' es-ES ' , ' it ' , ' fr-CA ' , ' zh-Hans ' , ' zh-Hant ' , ' pt-PT ' , ' ja ' , ' fr-FR ' , ' da ' , ' nl ' , ' en-GB ' , ' es-419 ' ], ' masterHeight ' :1080, ' masterId ' : ' 29B8F06358F058AD07A6DCA670B930C6013D1FA79F18C0CCDD44EB17300B33B8 ' , ' masterWidth ' :1920, ' purpose ' : ' hero_tile ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/29B8F06358F058AD07A6DCA670B930C6013D1FA79F18C0CCDD44EB17300B33B8 ' },{ ' aspectRatio ' :1.33, ' locales ' :[ ' no ' , ' de ' , ' fi ' , ' sv ' , ' ko ' , ' zh-HK ' , ' pt-BR ' , ' en ' , ' es-ES ' , ' it ' , ' fr-CA ' , ' zh-Hans ' , ' pt-PT ' , ' zh-Hant ' , ' ja ' , ' fr-FR ' , ' da ' , ' nl ' , ' en-GB ' , ' es-419 ' ], ' masterHeight ' :2160, ' masterId ' : ' 9499A7CA46ED8477AA2ED135428FE685FCDCA5DFEB8753022709F87B807C058D ' , ' masterWidth ' :2880, ' purpose ' : ' background ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9499A7CA46ED8477AA2ED135428FE685FCDCA5DFEB8753022709F87B807C058D ' },{ ' aspectRatio ' :3.91, ' locales ' :[ ' de ' , ' no ' , ' fi ' , ' sv ' , ' ko ' , ' zh-HK ' , ' pt-BR ' , ' es-ES ' , ' en ' , ' it ' , ' fr-CA ' , ' zh-Hans ' , ' zh-Hant ' , ' pt-PT ' , ' ja ' , ' fr-FR ' , ' da ' , ' nl ' , ' es-419 ' , ' en-GB ' ], ' masterHeight ' :982, ' masterId ' : ' 6E919653AB7114006F6E40EB060A6023B77D73E59BD95FE0007A50658FE02870 ' , ' masterWidth ' :3840, ' purpose ' : ' hero_tile ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6E919653AB7114006F6E40EB060A6023B77D73E59BD95FE0007A50658FE02870 ' },{ ' aspectRatio ' :3, ' locales ' :[ ' no ' , ' de ' , ' fi ' , ' sv ' , ' ko ' , ' zh-HK ' , ' pt-BR ' , ' en ' , ' es-ES ' , ' it ' , ' fr-CA ' , ' zh-Hans ' , ' pt-PT ' , ' zh-Hant ' , ' ja ' , ' fr-FR ' , ' da ' , ' en-GB ' , ' es-419 ' , ' nl ' ], ' masterHeight ' :1280, ' masterId ' : ' E2A34E589F253126A6BE71D6026C9C725C9452AC708E42BDE8E2C33EBD271A4E ' , ' masterWidth ' :3840, ' purpose ' : ' hero_tile ' , ' sourceEntity ' : ' series ' , ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E2A34E589F253126A6BE71D6026C9C725C9452AC708E42BDE8E2C33EBD271A4E ' }],
+Reality is not a straight line, every passing moment is a chance for a new offshoot, a new variation. In fact there are more realities than you can possibly fathom an infinite number of what ifs
+
+jeffrey wright and as the voice of the
+
+watcher and marvel's what if i can see
+
+what few others can
+
+the totality of the multiverse across
+
+all time and space
+
+the stories you thought you knew are
+
+nothing like you remember
+
+familiar faces who are you
+
+in unfamiliar roles
+
+[Music]
+
+the captain women aren't soldiers i
+
+would get ready
+
+agent carter no one expected
+
+and foes who became friends
+
+uh wow i did not see that coming
+
+you
