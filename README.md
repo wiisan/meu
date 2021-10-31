@@ -1,3 +1,54 @@
-url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2B2B257AF50481F114CCD89F33A840A305C40CDAC57FEB104E21BE02FDF05B10 ' , ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :2160, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5333C55EDFC0535FFA676A7BE1F45FA34F105ADB5F0EE91F1105BEF7F17C09B1 ' , ' title_treatment_layer ' : ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :1920, ' masterHeight ' :1080, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B8B081BC4ACDFB4EE87BCF1148504F6A6EF8C11EE71F4AA27ED2CC82B6F84F44 ' , ' 3.00 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :1280, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/608DF6378FFA23A04BB36360C80F14235C22198942624162F29127678B4E4CA1 ' , ' 3.91 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :982, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0B45116CC99D6D1A96C67AD98D48BAF8FD8F068615E2518BFE4A68095050C027 ' , ' title_treatment ' : ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :1920, ' masterHeight ' :1080, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D5D6A59ED39045093266EF053F1E9AA8672A7AF93C1F5B4604638D64DFD3554E ' , ' title_treatment_centered ' : ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :1920, ' masterHeight ' :1080, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1AC8821AF9CA937C0A18A98AE2792343A133682E21E93C21D5CFF7BA79F1680D ' , ' hero_tile ' : ' 3.91 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :982, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C47744C38CAB422543B0F298583050565E4FCC6B46E9BEAF36ACD9D400E5CB6E ' , ' 3.00 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :1280, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6C1467E7499BA31A8EA615F861972695557FA4125229EBAE682F4191828D308E ' , ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :1920, ' masterHeight ' :1080, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C116CF3BFEFF597D5ECFB27ECBD0C9B0C708DDC822655FFA8DA19B3531C7FF13 ' , ' background ' : ' 1.33 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :2880, ' masterHeight ' :2160, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9B741DA2F498734B192DD15F1A714124F47A6EA43DB9A36E65A8D100E66DDDA3 ' , ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :2160, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B0A7E2153D60EB9DA1C1E03653D6104DB2675B01D8F6ED1ECA8A810F41E2A7E3 ' 
+#EXTM3U size="medium"
 
-' , ' masterWidth ' :2000, ' masterHeight ' :2818, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2B2B257AF50481F114CCD89F33A840A305C40CDAC57FEB104E21BE02FDF05B10 ' , ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :2160, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/5333C55EDFC0535FFA676A7BE1F45FA34F105ADB5F0EE91F1105BEF7F17C09B1 ' , ' title_treatment_layer ' : ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :1920, ' masterHeight ' :1080, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B8B081BC4ACDFB4EE87BCF1148504F6A6EF8C11EE71F4AA27ED2CC82B6F84F44 ' , ' 3.00 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :1280, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/608DF6378FFA23A04BB36360C80F14235C22198942624162F29127678B4E4CA1 ' , ' 3.91 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :982, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/0B45116CC99D6D1A96C67AD98D48BAF8FD8F068615E2518BFE4A68095050C027 ' , ' title_treatment ' : ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :1920, ' masterHeight ' :1080, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/D5D6A59ED39045093266EF053F1E9AA8672A7AF93C1F5B4604638D64DFD3554E ' , ' title_treatment_centered ' : ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :1920, ' masterHeight ' :1080, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/1AC8821AF9CA937C0A18A98AE2792343A133682E21E93C21D5CFF7BA79F1680D ' , ' hero_tile ' : ' 3.91 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :982, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C47744C38CAB422543B0F298583050565E4FCC6B46E9BEAF36ACD9D400E5CB6E ' , ' 3.00 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :1280, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/6C1467E7499BA31A8EA615F861972695557FA4125229EBAE682F4191828D308E ' , ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :1920, ' masterHeight ' :1080, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/C116CF3BFEFF597D5ECFB27ECBD0C9B0C708DDC822655FFA8DA19B3531C7FF13 ' , ' background ' : ' 1.33 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :2880, ' masterHeight ' :2160, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9B741DA2F498734B192DD15F1A714124F47A6EA43DB9A36E65A8D100E66DDDA3 ' , ' 1.78 ' : ' program ' : ' default ' : ' masterId ' : '  ' , ' masterWidth ' :3840, ' masterHeight ' :2160, ' url ' : ' https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/B0A7E2153D60EB9DA1C1E03653D6104DB2675B01D8F6ED1ECA8A810F41E2A7E3 ' 
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x01
+https://video.wixstatic.com/video/5fbad8_c44babfc3162432897591e1cd0fda617/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x02
+https://video.wixstatic.com/video/5fbad8_97eb7078c97a4169aeb6060ee5b49212/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x03
+https://video.wixstatic.com/video/5fbad8_b8b5d04270444feabeed1ba0306bf946/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x04
+https://video.wixstatic.com/video/5fbad8_7f124c5eb1e54a7a900437583c860143/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x05
+https://video.wixstatic.com/video/5fbad8_9f8f8d4d0e5343bb98ee09f6a9912815/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x06
+https://video.wixstatic.com/video/5fbad8_f143da60181f4b139e947c97752add00/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x07
+https://video.wixstatic.com/video/5fbad8_7562459a34d14baa98c353874936733d/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x08
+https://video.wixstatic.com/video/5fbad8_f78617c42f5d4a5ba4bfa1194ce10e27/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x09
+https://video.wixstatic.com/video/5fbad8_0e8db999549b404f90f252e7fd51db0a/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x10
+https://video.wixstatic.com/video/5fbad8_3f7dc57b7e174521b0d488cf7d26e4ea/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x11
+https://video.wixstatic.com/video/5fbad8_da9f0538c6bf4984aa75c9c763bf5737/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x12
+https://video.wixstatic.com/video/5fbad8_6fce5ebba6124b598c90cf2ff871d3f9/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x13
+https://video.wixstatic.com/video/5fbad8_03098e72e3b249de8d7fce483196fbaf/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x14
+https://video.wixstatic.com/video/5fbad8_93431b6a88e5498797bfbdc036e91433/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x15
+https://video.wixstatic.com/video/5fbad8_b60d773cd5b640b1a4e33ec457e5148f/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x16
+https://video.wixstatic.com/video/5fbad8_b810567d73b540049f497a583609ad09/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x17
+https://video.wixstatic.com/video/5fbad8_3f27d3c0b9664f50a2daf258da9251fd/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x18
+https://video.wixstatic.com/video/5fbad8_cd326a126e7f44e19732cd6e8c6b9167/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x19
+https://video.wixstatic.com/video/5fbad8_d67b888959424409a07c392688e34127/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x20
+https://video.wixstatic.com/video/5fbad8_bb330c87c44d47fa8edd26d7b00181ef/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x21
+https://video.wixstatic.com/video/5fbad8_8aa042dc3c874224bb43354e62eacca6/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x22
+https://video.wixstatic.com/video/5fbad8_099f3d5a4ab04f95aa7bcc0285c5b3e7/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x23
+https://video.wixstatic.com/video/5fbad8_4759074540be4e129d57205089501c13/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x24
+https://video.wixstatic.com/video/5fbad8_d12a4d8699fe4977b69ba4ec90a38d66/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x25
+https://video.wixstatic.com/video/5fbad8_c83a3a89e8ed4f86beb5a865f4a30368/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="http" group-title="COWBOY BEBOP" background="http", 01x26
+https://video.wixstatic.com/video/5fbad8_74a290e9f6f949629e61d4ea908beffd/720p/mp4/file.mp4
