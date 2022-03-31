@@ -1,42 +1,42 @@
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/09/injustica.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/09/injustice.jpg", INJUSTICE (DUB)
+/09/injustica.jpg" /09/injustice.jpg", INJUSTICE (DUB)
 teste:"https://frugf.files.wordpress.com/2021/10/injustice-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"teste:"https://github.com/willianlira26/FILMES/releases/download/09/013138.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/09/013243.jpg", BEN 10: EXTINÇÃO ALIENÍGENA (DUB)
+#EXTINF:-1 tvg-logo="teste:"teste:"https://github.com/willianlira26/FILMES/releases/download/09/013138.jpg" /09/013243.jpg", BEN 10: EXTINÇÃO ALIENÍGENA (DUB)
 teste:"teste:"https://midmasd1.files.wordpress.com/2021/10/ben-10-novo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/08/scooby-coragem.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/08/scooby-coragem.jpg", SCOOBY-DOO ENCONTRA CORAGEM O CÃO COVARDE (DUB)
+/08/scooby-coragem.jpg" /08/scooby-coragem.jpg", SCOOBY-DOO ENCONTRA CORAGEM O CÃO COVARDE (DUB)
 teste:"https://5hdjd.files.wordpress.com/2021/09/scooby-e-coragem.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/07/pedro2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/07/pedro2.jpg", PEDRO COELHO 2: O FUGITIVO (DUB)
+/07/pedro2.jpg" /07/pedro2.jpg", PEDRO COELHO 2: O FUGITIVO (DUB)
 teste:"https://277mai.files.wordpress.com/2021/08/pedro-coelho-2-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/07/vivo1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/07/vivo2.jpg", A JORNADA DE VIVO (DUB)
+/07/vivo1.jpg" /07/vivo2.jpg", A JORNADA DE VIVO (DUB)
 teste:"https://jdbsf.files.wordpress.com/2021/08/a-jornada-de-vivo-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/07/jc.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/07/juc1.jpg", JUNGLE CRUISE (DUB)
+/07/jc.jpg" /07/juc1.jpg", JUNGLE CRUISE (DUB)
 teste:"https://227bty.files.wordpress.com/2021/08/jungle-cruise-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/sj2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/07/space-2.jpg", SPACE JAM: UM NOVO LEGADO (DUB)
+/03/sj2.jpg" /07/space-2.jpg", SPACE JAM: UM NOVO LEGADO (DUB)
 teste:"https://897bty.files.wordpress.com/2021/07/space-jam-2-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/05/olongodiadasbruxas1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/06/batmanlongodiadasbruxas.jpg", BATMAN: O LONGO DIA DAS BRUXAS - PARTE 1 (DUB)
+/05/olongodiadasbruxas1.jpg" /06/batmanlongodiadasbruxas.jpg", BATMAN: O LONGO DIA DAS BRUXAS - PARTE 1 (DUB)
 teste:"https://278edu.files.wordpress.com/2021/07/batman-longo-dia-das-bruxas-1-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/05/olongodiadasbruxas2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/olongodiadasbruxas2.jpg", BATMAN: O LONGO DIA DAS BRUXAS - PARTE 2 (DUB)
+/05/olongodiadasbruxas2.jpg" /05/olongodiadasbruxas2.jpg", BATMAN: O LONGO DIA DAS BRUXAS - PARTE 2 (DUB)
 teste:"https://all5854.files.wordpress.com/2021/09/batman-longo-dia-das-bruxas-2-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/05/luca-p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/luca.jpg", LUCA (DUB)
+/05/luca-p.jpg" /05/luca.jpg", LUCA (DUB)
 teste:"https://jsjdhdf.files.wordpress.com/2021/06/luca-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/04/-poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/06/cruella.jpg", CRUELLA (DUB)
+/04/-poster.jpg" /06/cruella.jpg", CRUELLA (DUB)
 teste:"https://2721data.files.wordpress.com/2021/05/cruella-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/mitchell-p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/mitchell.jpg", A FAMÍLIA MITCHELL E A REVOLTA DAS MÁQUINAS (DUB)
+/03/mitchell-p.jpg" /05/mitchell.jpg", A FAMÍLIA MITCHELL E A REVOLTA DAS MÁQUINAS (DUB)
 teste:"https://weim37.files.wordpress.com/2021/05/a-familia-mitchell-ea-revolta-das-maquinas-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/croods2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/croods2.jpg", OS CROODS 2: NOVA ERA (DUB)
+/03/croods2.jpg" /03/croods2.jpg", OS CROODS 2: NOVA ERA (DUB)
 teste:"https://thejsjsg.files.wordpress.com/2021/04/os-croods-2-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/02/big-pai-filho-2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/big-pai-filho-2.jpg", BIG PAI BIG FILHO 2
+/02/big-pai-filho-2.jpg" /02/big-pai-filho-2.jpg", BIG PAI BIG FILHO 2
 teste:"https://acao2data.files.wordpress.com/2021/03/big-pai-big-filho-2-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/02/pinoquio.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/pinoquio.jpg", PINÓQUIO (2019)
+/02/pinoquio.jpg" /02/pinoquio.jpg", PINÓQUIO (2019)
 teste:"https://mrdjjs.files.wordpress.com/2021/03/pinoquio-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/img_20210205_131127.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/raya-1.jpg", RAYA E O ÚLTIMO DRAGÃO (DUB)
+#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/img_20210205_131127.jpg" /03/raya-1.jpg", RAYA E O ÚLTIMO DRAGÃO (DUB)
 teste:"https://top13u.files.wordpress.com/2021/03/raya-eo-ultimo-dragao-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210205_130928.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/tej.jpg", TOM E JERRY O FILME (DUB)
+#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210205_130928.jpg" /03/tej.jpg", TOM E JERRY O FILME (DUB)
 teste:"https://mrdjjs.files.wordpress.com/2021/03/tom-e-jerry-2021-dub.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/wolfwalkers.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/wolfwalkers.jpg", WOLFWALKERS (DUB)
 teste:"https://top3data.files.wordpress.com/2021/02/wolfwalkers-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2021/01/20210124_122135.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/trolls-2.jpg", TROLLS 2 (DUB)
+#EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2021/01/20210124_122135.jpg" /03/trolls-2.jpg", TROLLS 2 (DUB)
 teste:"https://thechocolate8.files.wordpress.com/2021/01/trolls-2-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210226_012655.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/soul.jpg", SOUL (DUB)
+#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210226_012655.jpg" /05/soul.jpg", SOUL (DUB)
 teste:"https://filmes15movie.files.wordpress.com/2020/12/soul-dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://filmes14movie.files.wordpress.com/2020/12/3.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://filmes14movie.files.wordpress.com/2020/12/3.jpg", LEGO STAR WARS - ESPECIAL DE NATAL (DUB)
 teste:"https://filmes14movie.files.wordpress.com/2020/12/lego-star-wars-especial-de-natal.mp4:"
@@ -44,7 +44,7 @@ teste:"https://filmes14movie.files.wordpress.com/2020/12/lego-star-wars-especial
 teste:"https://thechocolate8.files.wordpress.com/2020/12/oxdonataldub-baixo.mp4:"
 #EXTINF:-1 tvg-logo="htt" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", SAPATINHO VERMELHO E OS 7 ANÕES
 teste:"https://top12data.files.wordpress.com/2021/03/sapatinho-vermelho-e-os-7-anoes-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210204_231358.png" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/bob3.jpg", BOB ESPONJA: O INCRÍVEL RESGATE
+#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210204_231358.png" /05/bob3.jpg", BOB ESPONJA: O INCRÍVEL RESGATE
 teste:"https://filmes14movie.files.wordpress.com/2020/11/bob-esponja-3-incrivel-resgate-dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210204_232053.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/20210204_232053.jpg", BEN 10 CONTRA O UNIVERSO (DUB)
 teste:"https://filmes12movie.files.wordpress.com/2020/11/ben-10-contra-o-universo-filme-dub.mp4:"
@@ -54,23 +54,23 @@ teste:"https://filme11movie.files.wordpress.com/2020/11/a_caminho_da_lua-dub.mp4
 teste:"https://filmes14movie.files.wordpress.com/2020/12/era-uma-vez-um-boneco-d-neve-dub.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2020/11/ccou_poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="http", PHINEAS E FERB: CANDENCE CONTRA O UNIVERSO (DUB)
 teste:"https://filme11movie.files.wordpress.com/2020/11/phineas-e-ferb-contra-o-universo-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2020/11/bruxass.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/bruxas.jpg", CONVENÇÃO DE BRUXAS (2020 - DUBLADO)
+#EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2020/11/bruxass.jpg" /04/bruxas.jpg", CONVENÇÃO DE BRUXAS (2020 - DUBLADO)
 teste:"https://to4data.files.wordpress.com/2021/01/convencao-das-bruxas-2020-dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2020/11/enola.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/20210214_010201.jpg", ENOLA HOLMES (DUB)
 teste:"https://filme2movie.files.wordpress.com/2020/09/enolaholmesdub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/ldjsa.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/ldjs.jpg", LIGA DA JUSTIÇA SOMBRIA: GUERRA EM APOKOLIPS (NOVA DUBLAGEM)
+/03/ldjsa.jpg" /03/ldjs.jpg", LIGA DA JUSTIÇA SOMBRIA: GUERRA EM APOKOLIPS (NOVA DUBLAGEM)
 teste:"https://thejsjsg.files.wordpress.com/2021/04/liga-da-justica-sombria-guerra-de-apokolips-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/02/sp.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/sw.jpg", SUPERMAN: O HOMEM DO AMANHÃ (NOVA DUBLAGEM)
+/02/sp.jpg" /02/sw.jpg", SUPERMAN: O HOMEM DO AMANHÃ (NOVA DUBLAGEM)
 teste:"https://acao2data.files.wordpress.com/2021/03/superman-homem-do-amanha-dub.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2020/11/mulan.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://to4data.files.wordpress.com/2021/01/mulan.jpg", MULAN - 2020 (DUB)
 teste:"https://filme1movie.files.wordpress.com/2020/09/2020mulandub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://si7e4.files.wordpress.com/2020/08/scooby.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/scoob.jpg", SCOOBY - O FILME (DUB)
+#EXTINF:-1 tvg-logo="teste:"https://si7e4.files.wordpress.com/2020/08/scooby.jpg" /04/scoob.jpg", SCOOBY - O FILME (DUB)
 teste:"https://si7e4.files.wordpress.com/2020/08/scooby.filme_.2020.720p.dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video113/v4/85/3a/bf/853abff5-f300-7ac2-1721-9ae8c110e433/pr_source.lsr/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/comu.jpg", SUPERMAN: ENTRE A FOICE E O MARTELO (DUB)
 teste:"https://a783home.files.wordpress.com/2020/06/superman.red_.son_.720p.bluray.h264.ac3_.dublado-ricksz.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/04/sonic.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/sonic2.jpg", SONIC - O FILME (DUB)
+/04/sonic.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/sonic2.jpg", SONIC - O FILME (DUB)
 teste:"https://96444home.files.wordpress.com/2020/04/sonic.o.filme_.2020.720p.web-dl.6ch.x264.dublado-lapumia.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/04/2irmao.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/20201218_143037.jpg", DOIS IRMÃOS: UMA JORNADA FANTÁSTICA (DUB)
+/04/2irmao.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/20201218_143037.jpg", DOIS IRMÃOS: UMA JORNADA FANTÁSTICA (DUB)
 teste:"https://ubaiart.files.wordpress.com/2020/04/onward.2020.720p.mp4:".dub_.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video114/v4/a7/64/93/a764935d-d18e-9ed9-dd72-5592333e8689/pr_source.lsr/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/animal.jpg", UM ESPIÃO ANIMAL (DUB)
 teste:"https://i21home.files.wordpress.com/2020/04/um.espic3a3o.animal.2019.720p.dublado.mp4:"
@@ -86,9 +86,9 @@ teste:"https://bichocode.files.wordpress.com/2020/12/aventuras-de-betty-2020-dub
 teste:"https://2filmesinfatis.files.wordpress.com/2020/01/www.mega-debrit.com_e21438474_abominc3a1vell.2020.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210214_010452.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/20210214_010436.jpg", DORA E A CIDADE PERDIDA (DUB)
 teste:"https://videoesonline.files.wordpress.com/2019/12/doraofilme2019.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/art.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", A DAMA E O VAGABUNDO (2019 - DUBLADO)
+/03/art.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", A DAMA E O VAGABUNDO (2019 - DUBLADO)
 teste:"https://infantil06art.files.wordpress.com/2020/05/dvdub-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200410_192338.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/20210303_102454.jpg", O REI LEÃO (DUB)
+#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200410_192338.jpg" /02/20210303_102454.jpg", O REI LEÃO (DUB)
 teste:"https://filmes3online.files.wordpress.com/2019/10/o.rei_.leao_.2019.720p.bluray.x264.dublado-www.bludv_.tv_.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", STEVEN UNIVERSO - O FILME (DUB)
 teste:"https://infantil02art.files.wordpress.com/2020/05/steven.universo.o.filme_.mp4:"
@@ -97,9 +97,9 @@ teste:"https://filmes15movie.files.wordpress.com/2020/12/jovenstitasemacaodublad
 
 #EXTINF:-1 tvg-logo="teste:"https://is1-ssl.mzstatic.com/image/thumb/Video113/v4/c5/46/f2/c546f2ff-3265-9b87-cc16-b205e9b6dc9c/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", MY HERO ACADEMIA - 2 HERÓIS (DUB)
 teste:"https://1filmeinfantis.files.wordpress.com/2019/12/myheroacademia-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/alladin.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/06/aladdin.jpg", ALADDIN (2019) - DUB
+/03/alladin.jpg" /06/aladdin.jpg", ALADDIN (2019) - DUB
 teste:"https://filmes2go.files.wordpress.com/2019/08/aladdin.2019.720p.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/alladin.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/06/aladdin.jpg", ALADDIN (2019) - LEG
+/03/alladin.jpg" /06/aladdin.jpg", ALADDIN (2019) - LEG
 teste:"https://filmeslegmovie.files.wordpress.com/2019/08/aladdinleg.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2020/11/monica.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/11/monica.jpg", TURMA DA MÕNICA: LAÇOS
 teste:"https://filmes2go.files.wordpress.com/2019/08/turma.da_.mc3b4nica.lac3a7os.2019.720p.mp4:"
@@ -107,9 +107,9 @@ teste:"https://filmes2go.files.wordpress.com/2019/08/turma.da_.mc3b4nica.lac3a7o
 teste:"https://fillmes2.files.wordpress.com/2019/07/pokc3a9mon.detetive.pikachu.2019.720p..bluray.x264.dublado-www.bludv_.tv_.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/dumbo_2019.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/20210214_010820.jpg", DUMBO (2019)
 teste:"https://filmescar.files.wordpress.com/2019/06/dumbo.2019.720p.bluray.x264-dublado.www_.comandotorrents.com_.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video123/v4/ff/4e/4a/ff4e4a97-76b5-89eb-b564-43a5d3cb02aa/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/broly.jpg", DRAGON BALL SUPER: BROLY (DUB)
+#EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video123/v4/ff/4e/4a/ff4e4a97-76b5-89eb-b564-43a5d3cb02aa/source/600x600bb.jpg" /04/broly.jpg", DRAGON BALL SUPER: BROLY (DUB)
 teste:"https://movies02onlinemovie.files.wordpress.com/2020/03/filme-1-broly.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://j54home.files.wordpress.com/2020/09/20200923_185246.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/06/aranhaverso.jpg", HOMEM-ARANHA NO ARANHAVERSO
+#EXTINF:-1 tvg-logo="teste:"https://j54home.files.wordpress.com/2020/09/20200923_185246.jpg" /06/aranhaverso.jpg", HOMEM-ARANHA NO ARANHAVERSO
 teste:"https://videos.files.wordpress.com/XSZHJZGh/homem-aranha.no_.aranhaverso.2019.720p-dublado_hd.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2020/11/ralph-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/11/ralph-1.jpg", DETONA RALPH
 teste:"https://jsjdhdf.files.wordpress.com/2021/05/detona-ralph-dub.avi
@@ -143,7 +143,7 @@ teste:"https://u13home.files.wordpress.com/2020/03/inspetorbugiganga2.mp4:"
 teste:"https://mymnvsh.files.wordpress.com/2021/03/meninas-superpoderosas-filme-dub.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/0e/c2/0e/0ec20ee8-eee5-e09f-10eb-68d14c963b38/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", AS AVENTURAS DE TADÉO 2
 http://topfilmesapp.lelantos.ferosting.com/2017/aventurasdetadeo2-dub-480p.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_113408.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/fuga.jpg", A FUGA DAS GALINHAS
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_113408.jpg" /04/fuga.jpg", A FUGA DAS GALINHAS
 teste:"https://mkt83.files.wordpress.com/2021/05/fuga-das-galinhas-dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video2/v4/df/f0/3a/dff03a35-b357-6796-9529-2278f0bce15d/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", O BICHO VAI PEGAR 1
 teste:"https://bichocode.files.wordpress.com/2020/11/bicho-vai-pegar-1.mp4:"
@@ -153,41 +153,41 @@ teste:"https://bichocode.files.wordpress.com/2020/11/bicho-vai-pegar-2.mp4:"
 teste:"https://bichocode.files.wordpress.com/2020/11/bicho-vai-pegar-3.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video128/v4/38/64/72/386472fb-a7d1-ed53-9a22-3ad42f641eb0/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", BIG PAI BIG FILHO
 teste:"https://top4data.files.wordpress.com/2021/02/big-pai-big-filho.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/04/cr2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/cr1.jpg", CHRISTOPHER ROBIN: UM REENCONTRO INESQUECIVEL
+/04/cr2.jpg" /04/cr1.jpg", CHRISTOPHER ROBIN: UM REENCONTRO INESQUECIVEL
 teste:"https://top4data.files.wordpress.com/2021/02/christopher-robin-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210204_233837.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/mlv1.jpg", MALÉVOLA
+#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210204_233837.jpg" /02/mlv1.jpg", MALÉVOLA
 teste:"https://2020movievideo.files.wordpress.com/2020/01/m4alevoladub-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210204_233850.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/mlv2.jpg", MALÉVOLA - DONA DO MAL
+#EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/20210204_233850.jpg" /02/mlv2.jpg", MALÉVOLA - DONA DO MAL
 teste:"https://1filmeinfantis.files.wordpress.com/2020/01/malc3a9vola.dona_.do_.mal_.2020.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video118/v4/63/9d/ab/639dabf1-aea7-e2b7-cbbb-af44dbbc5068/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", LEGO NINJAGO: O FILME
 teste:"https://top7data.files.wordpress.com/2021/02/lego-ninjago-dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video/v4/14/ea/ab/14eaab71-9cff-c65b-d318-1583ff32a80b/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/colmeia.jpg", ZÉ COLMEIA - O FILME
 teste:"https://1filmeinfantis.files.wordpress.com/2019/12/zc3a9-colmeia-o-filme720p_hd.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/05/estranhomundodejack.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/estranhomundodejack.jpg", O ESTRANHO MUNDO DE JACK
+/05/estranhomundodejack.jpg" /05/estranhomundodejack.jpg", O ESTRANHO MUNDO DE JACK
 teste:"https://9jd3.files.wordpress.com/2021/06/estranho-mundo-de-jack-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/05/83/72/05837218-8a78-15c1-4e0a-7efeadc2b47f/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/mr-fox.jpg", O FANTÁSTICO SR RAPOSO
+#EXTINF:-1 tvg-logo="teste:"https://is1-ssl.mzstatic.com/image/thumb/Video5/v4/05/83/72/05837218-8a78-15c1-4e0a-7efeadc2b47f/source/600x600bb.jpg" /05/mr-fox.jpg", O FANTÁSTICO SR RAPOSO
 teste:"https://filme2movie.files.wordpress.com/2020/09/fantastico-sr-raposo-2009.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_113046.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/incri1.jpg", OS INCRÍVEIS 1
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_113046.jpg" /03/incri1.jpg", OS INCRÍVEIS 1
 teste:"https://top7data.files.wordpress.com/2021/02/os-incriveis-1-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_113246.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/incri2.jpg", OS INCRÍVEIS 2
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_113246.jpg" /03/incri2.jpg", OS INCRÍVEIS 2
 teste:"https://top4data.files.wordpress.com/2021/02/os-incriveis-2-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/ts1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/t1.jpg", TOY STORY 1
+/03/ts1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/t1.jpg", TOY STORY 1
 teste:"https://toystoryonlinenews.files.wordpress.com/2020/01/toystory-dub-480p.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/ts2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/t2.jpg", TOY STORY 2
+/03/ts2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/t2.jpg", TOY STORY 2
 teste:"https://toystoryonlinenews.files.wordpress.com/2020/01/toystory2-dub-480p.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/ts3.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/t3.jpg", TOY STORY 3
+/03/ts3.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/t3.jpg", TOY STORY 3
 teste:"https://toystoryonlinenews.files.wordpress.com/2020/01/toystory3-dub-480p.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/ts4.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/t4.jpg", TOY STORY 4
+/03/ts4.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/t4.jpg", TOY STORY 4
 teste:"https://cinema7movie.files.wordpress.com/2019/10/toy.story_.4.2019.720p.bluray.x264.dublado-www.bludv_.tv_.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is1-ssl.mzstatic.com/image/thumb/Video2/v4/4d/db/60/4ddb6058-b426-df7d-f66c-567c5dc5e8e5/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", TOY STORY - ESQUECIDOS PELO TEMPO
 teste:"https://baixarfilmesart.files.wordpress.com/2020/01/toy.story_.esquecidos.pelo_.tempo_.dual_.hdtv_.xvid-capasfornari.avi
 #EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video71/v4/ee/94/bd/ee94bd30-fdef-3527-340a-4e9ee1a78ef1/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/chicken-little.jpg", O GALINHO CHICKEN LITTLE
 teste:"https://2filmesinfatis.files.wordpress.com/2019/12/o.galinho.chicken.little.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/enrop.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/enrow.jpg", ENROLADOS
+/03/enrop.jpg" /03/enrow.jpg", ENROLADOS
 teste:"https://movies01video.files.wordpress.com/2020/03/enroladosdub-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/f1p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/f1w.jpg", FROZEN 1
+/03/f1p.jpg" /03/f1w.jpg", FROZEN 1
 teste:"https://cld.pt/dl/download/5a2b603f-9081-47a1-9e6d-42cabdc00cb9/frozen.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/f2p.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/f2w.jpg", FROZEN 2
+/03/f2p.jpg" /03/f2w.jpg", FROZEN 2
 teste:"https://animacao02video.files.wordpress.com/2020/03/frozen.2.2019.720p.bluray.6ch.x264.dublado-lapumia.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200603_191553.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/big.jpg", OPERAÇÃO BIG HERO
 teste:"https://fracoscode.files.wordpress.com/2020/03/bigherodub-baixo.mp4:"
@@ -199,13 +199,13 @@ teste:"https://filme1movie.files.wordpress.com/2020/07/vida-de-inseto.avi
 teste:"https://69267home.files.wordpress.com/2020/04/walle-baixo.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200411_114855.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/11/ratatouille.jpg", RATATOUILLE
 teste:"https://ia803006.us.archive.org/29/items/jekwjrwjdkdwkd/ratatouille.mkv
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/msap.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/msaw.jpg", MONSTROS S.A
+/03/msap.jpg" /03/msaw.jpg", MONSTROS S.A
 teste:"https://e99home.files.wordpress.com/2020/07/monstros-s.a.-2001.avi
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/ump.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/umw.jpg", UNIVERSIDADE MONSTROS
+/03/ump.jpg" /03/umw.jpg", UNIVERSIDADE MONSTROS
 teste:"https://infantil05art.files.wordpress.com/2020/05/universidade.monstros.avi
 #EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200415_000321.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/divertidamente.jpg", DIVERTIDAMENTE
 teste:"https://top3data.files.wordpress.com/2021/02/divertidamente-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/04/zootopia.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/zootopia.jpg", ZOOTOPIA
+/04/zootopia.jpg" /03/zootopia.jpg", ZOOTOPIA
 teste:"https://mkt83.files.wordpress.com/2021/05/zootopia-dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200603_190336.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/brave.jpg",VALENTE
 teste:"https://movies02onlinemovie.files.wordpress.com/2020/03/valentedub-baixo.mp4:"
@@ -219,11 +219,11 @@ teste:"https://thefilmes3.files.wordpress.com/2020/03/procurandodory-baixo.mp4:"
 teste:"https://f000.backblazeb2.com/file/filmesonline2020/BEN10DUB-BAIXO.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://fillmes5.files.wordpress.com/2020/10/10.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", BEN 10: INVASÃO ALIENÍGENA
 teste:"https://fillmes5.files.wordpress.com/2020/10/ben-10-invasao-alienigena.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://fillmes5.files.wordpress.com/2020/10/p172144_v_v7_ab.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/segredo.jpg", BEN 10: O SEGREDO DO OMNITRIX
+#EXTINF:-1 tvg-logo="teste:"https://fillmes5.files.wordpress.com/2020/10/p172144_v_v7_ab.jpg" /03/segredo.jpg", BEN 10: O SEGREDO DO OMNITRIX
 teste:"https://f000.backblazeb2.com/file/filmesonline2020/BEN10OMNITRIXDUB.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://tofdata.files.wordpress.com/2021/01/bem.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/bem.jpg", BEN 10: DESTRUIÇÃO ALIENÍGENA
 teste:"https://9jej.files.wordpress.com/2021/04/ben-10-destruicao-alienigena-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/b10-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/b10-1.jpg", BEN 10 - CURTAS
+/03/b10-1.jpg" /03/b10-1.jpg", BEN 10 - CURTAS
 teste:"https://tonenww.files.wordpress.com/2021/04/ben-10-curtas-hd.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_112519.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/titans.jpg", OS JOVENS TITÃS EM AÇÃO NOS CINEMAS
 teste:"https://filmes12movie.files.wordpress.com/2020/11/jovenstitasdubb-baixo.mp4:"
@@ -249,25 +249,25 @@ teste:"https://lancamentos2020art.files.wordpress.com/2020/03/scoobydoodub-baixo
 teste:"https://anovosfilmes.files.wordpress.com/2020/01/scoobydoeocombatedesalsicha-dub-480p.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is1-ssl.mzstatic.com/image/thumb/Video/v4/82/92/9d/82929dfb-408d-ab69-85fa-7c3b20d68486/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", SCOOBY DOO: DE VOLTA A ILHA DOS ZUMBIS
 teste:"https://movies01video.files.wordpress.com/2020/03/scoobydoodevoltaailhadoszumbis.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/02/sj.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/space-jam.jpg", SPACE JAM O JOGO DO SÉCULO
+/02/sj.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/space-jam.jpg", SPACE JAM O JOGO DO SÉCULO
 teste:"https://m906home.files.wordpress.com/2020/04/space-jam-o-jogo-do-sc3a9culo-1996-bdrip-720p-dublado-dat2014.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video/v4/5e/4d/5c/5e4d5cc2-2421-023b-b3af-cf65ea56c867/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/ln-dvaa.jpg", LOONEY TUNES - DE VOLTA A AÇÃO
 teste:"https://m095home.files.wordpress.com/2020/04/looney-tunes-de-volta-c3a0-ac3a7c3a3o-2003-5.1-ch-dublado-720p-by-luanharper.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is3-ssl.mzstatic.com/image/thumb/Video3/v4/bf/03/46/bf034691-99a2-81b0-ee03-72a1491a0086/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", LOONEY TUNES - FUGA DOS COELHOS
 teste:"https://ks4ex.files.wordpress.com/2021/04/looney-tunes-fuga-dos-coelhos-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/20210404_000145.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/20210404_000145.jpg", UP: ALTAS AVENTURAS
+/03/20210404_000145.jpg" /03/20210404_000145.jpg", UP: ALTAS AVENTURAS
 teste:"https://sujdjd.files.wordpress.com/2021/04/up-altas-aventuras.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_111449.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/11/viva.jpg", VIVA: A VIDA É UMA FESTA
 teste:"https://filmesacaomovie.files.wordpress.com/2020/07/vidafestadub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200414_234159.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/c1.jpg", CARROS
+#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200414_234159.jpg" /03/c1.jpg", CARROS
 teste:"https://onlinecarros.files.wordpress.com/2020/01/carros-cars-2006-dvdripdublado-mjd.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200414_234259.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/c2.jpg", CARROS 2
+#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200414_234259.jpg" /03/c2.jpg", CARROS 2
 teste:"https://onlinecarros.files.wordpress.com/2020/01/carros-2.dub_.www_.brasilmegaseries.net_.avi
-#EXTINF:-1 tvg-logo="teste:"https://tofdata.files.wordpress.com/2021/01/c3.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/c3.jpg", CARROS 3
+#EXTINF:-1 tvg-logo="teste:"https://tofdata.files.wordpress.com/2021/01/c3.jpg" /03/c3.jpg", CARROS 3
 teste:"https://onlinecarros.files.wordpress.com/2020/01/carros3dub-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/angry1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/angry1.jpg", ANGRY BIRDS
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/angry1.jpg" /02/angry1.jpg", ANGRY BIRDS
 teste:"https://tonenww.files.wordpress.com/2021/04/angry-birds-1.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/angry2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/angry2.jpg", ANGRY BIRDS 2
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/angry2.jpg" /02/angry2.jpg", ANGRY BIRDS 2
 teste:"https://cinema7movie.files.wordpress.com/2019/11/angry.birds_.2.o.filme_.2019.720p.bluray.x264.dublado-lapumia.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_111313.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/chuva-1.jpg", TÁ CHOVENDO HAMBURGUER 1
 teste:"https://2020filme.files.wordpress.com/2020/01/ta-chovendo-hamburguer-1-2009.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
@@ -277,31 +277,31 @@ teste:"https://novelachata.files.wordpress.com/2019/12/tc3a1-chovendo-hambc3barg
 teste:"https://2filmesinfatis.files.wordpress.com/2019/12/os-smurfs-2011-720p-bluray-6ch-dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video1/v4/99/56/42/995642d7-cdf5-37e5-9cd1-46dd10aaa952/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/11/smurfs-2.jpg", OS SMURFS 2
 teste:"https://2filmesinfatis.files.wordpress.com/2019/12/os-smurfs-2-2013-720p-bluray-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_110937.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/vila.jpg", OS SMURFS E A VILA PERDIDA
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200604_110937.jpg" /02/vila.jpg", OS SMURFS E A VILA PERDIDA
 teste:"https://infantil02art.files.wordpress.com/2020/05/smurfsvilaperdidadub-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video118/v4/99/a4/52/99a4520e-2fa4-7e60-0727-aae3cd73d8d6/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/flauta.jpg", OS SMURFS E A FLAUTA MÁGICA
+#EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video118/v4/99/a4/52/99a4520e-2fa4-7e60-0727-aae3cd73d8d6/source/600x600bb.jpg" /02/flauta.jpg", OS SMURFS E A FLAUTA MÁGICA
 teste:"https://filmes15movie.files.wordpress.com/2020/12/os-smurfs-e-a-flauta-magica-1975.avi
-#EXTINF:-1 tvg-logo="teste:"https://media.fstatic.com/8Gr2Syho2EQ_Wd0w_BbPWtIy9Fs=/fit-in/290x478/smart/media/movies/covers/2013/09/the-smurfs-the-legend-of-smurfy-hollow_tNone.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/hollow.jpg", OS SMURFS E O CONTO DE HALLOWEEN
+#EXTINF:-1 tvg-logo="teste:"https://media.fstatic.com/8Gr2Syho2EQ_Wd0w_BbPWtIy9Fs=/fit-in/290x478/smart/media/movies/covers/2013/09/the-smurfs-the-legend-of-smurfy-hollow_tNone.jpg" /02/hollow.jpg", OS SMURFS E O CONTO DE HALLOWEEN
 teste:"https://filmescar.files.wordpress.com/2019/05/os-smurfs-o-conto-de.halloween.-.dvdrip-dublado-dual.c381udio-2013.avi
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/02/lego1poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/lego1.jpg", UMA AVENTURA LEGO
+/02/lego1poster.jpg" /02/lego1.jpg", UMA AVENTURA LEGO
 teste:"https://thefilmes6.files.wordpress.com/2019/07/themaniac-uma-aventura-lego-dvdrip.avi
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/02/legoposter.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/lego2.jpg", UMA AVENTURA LEGO 2
+/02/legoposter.jpg" /02/lego2.jpg", UMA AVENTURA LEGO 2
 teste:"https://filmes2go.files.wordpress.com/2019/04/uma_aventura_lego_2_hddub.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://ottvsimg.ottvs.com.br/cov/uni.059406/0059406_335.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", O ESPANTA TUBARÕES
 teste:"https://filme10movie.files.wordpress.com/2020/10/espanta-tubaroes-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200414_235012.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/rio1.jpg", RIO
+#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200414_235012.jpg" /02/rio1.jpg", RIO
 teste:"https://ia601502.us.archive.org/7/items/kgpyswibxohohdkb/rio.mkv
-#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200414_234857.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/rio2.jpg", RIO 2
+#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200414_234857.jpg" /02/rio2.jpg", RIO 2
 teste:"https://vingadoresultimato.files.wordpress.com/2020/01/rio-2-2014-brrip-720p-dublado-andretpf.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200411_120025.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/panda-1.jpg", KUNG FU PANDA
+#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200411_120025.jpg" /02/panda-1.jpg", KUNG FU PANDA
 teste:"https://top4data.files.wordpress.com/2021/02/kung-fu-panda-1-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200411_120208.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/panda-2.jpg", KUNG FU PANDA 2
+#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200411_120208.jpg" /02/panda-2.jpg", KUNG FU PANDA 2
 teste:"https://kungfupandaart.files.wordpress.com/2020/01/kung_fu_panda_2.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200411_120321.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/panda-3.jpg", KUNG FU PANDA 3
+#EXTINF:-1 tvg-logo="teste:"https://r350home.files.wordpress.com/2020/04/20200411_120321.jpg" /02/panda-3.jpg", KUNG FU PANDA 3
 teste:"https://kungfupandaart.files.wordpress.com/2020/01/kungfupanda3dub-baixo-1.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://jx7home.files.wordpress.com/2021/02/lego-batman.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/lego-batman.jpg", LEGO BATMAN O FILME
 teste:"https://top7data.files.wordpress.com/2021/02/lego-batman-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/simp.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/simp.jpg", OS SIMPSONS: O FILME
+/03/simp.jpg" /03/simp.jpg", OS SIMPSONS: O FILME
 teste:"https://infantil01art.files.wordpress.com/2020/05/ossimpsonsdub-baixo.mp4:"
 
 #EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video128/v4/22/f2/56/22f25623-48d0-7599-3412-10491199ae8f/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", DBZ: A BATALHA NOS DOIS MUNDOS
@@ -332,17 +332,17 @@ teste:"https://f000.backblazeb2.com/file/cinemania/DBZ+-+Gohan+e+Trunks%2C+Guerr
 teste:"https://dbzcarblog.files.wordpress.com/2020/03/dragonballzumanovafusao.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/03/dc/4a/03dc4aa3-617f-6a10-631b-702864308cc8/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", DBZ: UMA VINGANÇA PARA FREEZA
 http://cdn7.hippolytus.ferosting.com/DragonBallZUmaVingancaParaFreeza.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video3/v4/88/40/ff/8840ff68-36a8-dc36-252e-f6d122675ae8/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/dbz-bills.jpg",DBZ: A BATALHA DOS DEUSES
+#EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video3/v4/88/40/ff/8840ff68-36a8-dc36-252e-f6d122675ae8/source/600x600bb.jpg" /03/dbz-bills.jpg",DBZ: A BATALHA DOS DEUSES
 teste:"https://ia601502.us.archive.org/7/items/kgpyswibxohohdkb/Dragon%20Ball%20Z%20A%20Batalha%20dos%20Deuses%20avi%28480P%29.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video/v4/f8/98/78/f898780a-949d-7472-5011-4bf43cf4c575/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/jje.jpg", DBZ: O RENASCIMENTO DE FREEZA
+#EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video/v4/f8/98/78/f898780a-949d-7472-5011-4bf43cf4c575/source/600x600bb.jpg" /03/jje.jpg", DBZ: O RENASCIMENTO DE FREEZA
 teste:"https://96444home.files.wordpress.com/2020/04/dbzfreezadub-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/snoopy.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/snoopy.jpg", SNOOPY E CHARLIE BROWN - PEANUTS O FILME
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/snoopy.jpg" /04/snoopy.jpg", SNOOPY E CHARLIE BROWN - PEANUTS O FILME
 teste:"https://u13home.files.wordpress.com/2020/04/snoopy-charlie-brown-peanuts.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/de/ff/4b/deff4b25-e51c-7003-91d8-9b3a546f2e93/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/grinch-2.jpg", O GRINCH - 2019
 teste:"https://infantil01.files.wordpress.com/2020/03/ogrinch2019d-baixo.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video118/v4/30/be/91/30be91ba-3644-7003-c24a-dbc87d4f74bc/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/terra.jpg", A FUGA DO PLANETA TERRA
 teste:"https://webcinema5.files.wordpress.com/2020/03/afugadoplanetaterra-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/08/junanji.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/08/jumanji.jpg", JUMANJI
+/08/junanji.jpg" /08/jumanji.jpg", JUMANJI
 teste:"https://hottf1.files.wordpress.com/2021/09/jumanji-1995.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video/v4/70/06/67/70066744-94b0-e9d2-ab37-4b0a35848fe4/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", ESQUECERAM DE MIM
 teste:"https://8iogame.files.wordpress.com/2020/04/esqueceram-de-mim-1-1990-bdrip-720p-dublado-dat2014.mp4:"
@@ -350,9 +350,9 @@ teste:"https://8iogame.files.wordpress.com/2020/04/esqueceram-de-mim-1-1990-bdri
 teste:"https://top8r.files.wordpress.com/2021/02/mogli-menino-lobo-dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video118/v4/14/8d/29/148d29b9-2239-d971-5afb-967dcd4e54fe/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", POR ÁGUA ABAIXO
 teste:"https://filme10movie.files.wordpress.com/2020/10/por-agua-abaixo-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/bob1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/bob1.jpg", BOB ESPONJA: O FILME
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/bob1.jpg" /05/bob1.jpg", BOB ESPONJA: O FILME
 teste:"https://aassistir.files.wordpress.com/2019/11/bobesponja1.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/bob2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/bob2.jpg", BOB ESPONJA: UM HEROI FORA D'ÁGUA
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/bob2.jpg" /05/bob2.jpg", BOB ESPONJA: UM HEROI FORA D'ÁGUA
 teste:"https://infantil05art.files.wordpress.com/2020/05/20334.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/mmf1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/11/malvado-1.jpg", MEU MALVADO FAVORITO
 teste:"https://2020filmemovie.files.wordpress.com/2020/01/meumalvadofavorito-dub-360p.mp4:"
@@ -362,31 +362,31 @@ teste:"https://infantil06art.files.wordpress.com/2020/05/malvado.favorito.2.avi
 teste:"https://meumalvadofavoritoart.files.wordpress.com/2020/01/meumalvado3-dub-480p.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/minions.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/11/minions.jpg", MINIONS
 teste:"https://2020filme.files.wordpress.com/2020/01/www.mega-debrit.com_26f438983_minions-2015.mp4:".dub_.baixarseriesmp4:".com_.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/fera-2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/bf.jpg", A BELA E A FERA
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/fera-2.jpg" /04/bf.jpg", A BELA E A FERA
 teste:"https://filmesacaomovie.files.wordpress.com/2020/07/belafera2017dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/fera-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/bff.jpg", A BELA E A FERA (ANIMAÇÃO)
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/fera-1.jpg" /04/bff.jpg", A BELA E A FERA (ANIMAÇÃO)
 teste:"https://acao4data.files.wordpress.com/2020/06/a-bela-ea-fera-91.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/reileao.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/rei-leao.jpg", O REI LEÃO
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/reileao.jpg" /04/rei-leao.jpg", O REI LEÃO
 teste:"https://movies02onlinemovie.files.wordpress.com/2020/03/reileo1994.mp4:"
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/89/89/64/20447033.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", O REI LEÃO 2
 teste:"https://reileaoart.files.wordpress.com/2020/05/o-rei-lec3a3o-2.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://images-americanas.b2w.io/produtos/01/00/item/109948/8/109948840SZ.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/rl3.jpg", O REI LEÃO 3
+#EXTINF:-1 tvg-logo="teste:"https://images-americanas.b2w.io/produtos/01/00/item/109948/8/109948840SZ.jpg" /04/rl3.jpg", O REI LEÃO 3
 teste:"https://reileaoart.files.wordpress.com/2020/05/o-rei-lec3a3o-3.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2021/01/20210115_112855.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2021/01/20210115_112916.jpg", PINÓQUIO
 teste:"https://mankdata.files.wordpress.com/2021/01/pinoquio-1940-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/20210403_235953.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/20210403_235953.jpg", IRMÃO URSO
+/03/20210403_235953.jpg" /03/20210403_235953.jpg", IRMÃO URSO
 teste:"https://ks4ex.files.wordpress.com/2021/04/irmao-urso.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/05/ana.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/ana-1.jpg", ANASTASIA
+/05/ana.jpg" /05/ana-1.jpg", ANASTASIA
 teste:"https://3st02.files.wordpress.com/2021/06/anastasia-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/04/ferro.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/gigante.jpg", GIGANTE DE FERRO
+/04/ferro.jpg" /04/gigante.jpg", GIGANTE DE FERRO
 teste:"https://sujdjd.files.wordpress.com/2021/04/gigante-de-ferro-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/20210404_001119.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/03/20210404_001119.jpg", PLANETA DO TESOURO
+/03/20210404_001119.jpg" /03/20210404_001119.jpg", PLANETA DO TESOURO
 teste:"https://sujdjd.files.wordpress.com/2021/04/planeta-do-tesouro.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/04/rango.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/rango.jpg", RANGO
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/04/rango.jpg" /02/rango.jpg", RANGO
 teste:"https://2filmesinfatis.files.wordpress.com/2019/12/rango.2011.versc3a3o.estendida.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video71/v4/06/21/31/06213157-da13-f3fc-b3ca-05e456ea41ca/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/willy.jpg", A FANTASTICA FABRICA DE CHOCOLATE (1971)
+#EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video71/v4/06/21/31/06213157-da13-f3fc-b3ca-05e456ea41ca/source/600x600bb.jpg" /04/willy.jpg", A FANTASTICA FABRICA DE CHOCOLATE (1971)
 teste:"https://ia803006.us.archive.org/29/items/jekwjrwjdkdwkd/FANTASTICAFABRICADECHOCOLATES1971.mkv
-#EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video/v4/70/6c/62/706c62ca-0040-8f88-e3e7-2e166c9a8835/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/chocolate.jpg", A FANTASTICA FABRICA DE CHOCOLATE (2005)
+#EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video/v4/70/6c/62/706c62ca-0040-8f88-e3e7-2e166c9a8835/source/600x600bb.jpg" /04/chocolate.jpg", A FANTASTICA FABRICA DE CHOCOLATE (2005)
 teste:"https://baixarfilmesart.files.wordpress.com/2020/01/charlie.and_.the_.chocolate.factory.2005.mp4:".dub_.baixarseriesmp4:".org_.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/db/ff/8c/dbff8c7e-2caa-a2b5-b183-deb3b4ec830f/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/emoji.png", EMOJI - O FILME
 teste:"https://f000.backblazeb2.com/file/filmesonline2020/Emoji.O.Filme.mp4:"
@@ -400,24 +400,24 @@ teste:"https://eradogelodata.files.wordpress.com/2020/07/aeradogelo3-baixo.mp4:"
 teste:"https://top8r.files.wordpress.com/2021/03/a-era-do-gelo-4-dub.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200603_193803.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/11/gelo-5.jpg", A ERA DO GELO: O BIG BANG
 teste:"https://filmes10movie.files.wordpress.com/2020/09/eradogelo-5.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/02/g1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/g1.jpg", GARFIELD 1
+/02/g1.jpg" /02/g1.jpg", GARFIELD 1
 teste:"https://thejsjsg.files.wordpress.com/2021/03/garfield-1-dub-1.mp4:"
 
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/shrek1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/shrek-1.jpg", SHREK 1
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/shrek1.jpg" /02/shrek-1.jpg", SHREK 1
 teste:"https://infantil01art.files.wordpress.com/2020/05/shr41dub-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/shrek2.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/shrek-2.jpg", SHREK 2
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/shrek2.jpg" /02/shrek-2.jpg", SHREK 2
 teste:"https://shrekdubladoart.files.wordpress.com/2020/01/shrek-2-2004-bdrip-720p-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/shrek3.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/shrek-3.jpg", SHREK TERCEIRO
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/shrek3.jpg" /02/shrek-3.jpg", SHREK TERCEIRO
 teste:"https://shrekdubladoart.files.wordpress.com/2020/01/shrek-terceiro-2007-bdrip-720p-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/shrek4.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/shrek-4.jpg", SHREK PARA SEMPRE
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/05/shrek4.jpg" /02/shrek-4.jpg", SHREK PARA SEMPRE
 teste:"https://filme11movie.files.wordpress.com/2020/10/shr4kparasempredub.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video118/v4/6a/8c/ba/6a8cba12-6517-89ca-6a95-ab60fd9ce6ce/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/11/pinguins.jpg", OS PINGUINS DE MADAGASCAR
 teste:"https://baixarfilmesart.files.wordpress.com/2020/01/pinguins.de_.madagascar.mp4:".dub_.baixarseriesmp4:".com_.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200603_193410.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/madagascar-1.jpg", MADAGASCAR
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200603_193410.jpg" /02/madagascar-1.jpg", MADAGASCAR
 teste:"https://vipmadagascar.files.wordpress.com/2020/05/madagascar1.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is1-ssl.mzstatic.com/image/thumb/Video62/v4/fe/bc/4a/febc4a59-2828-93dd-c6e6-7cb43e367002/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/madagascar-2.jpg", MADAGASCAR 2
+#EXTINF:-1 tvg-logo="teste:"https://is1-ssl.mzstatic.com/image/thumb/Video62/v4/fe/bc/4a/febc4a59-2828-93dd-c6e6-7cb43e367002/source/600x600bb.jpg" /02/madagascar-2.jpg", MADAGASCAR 2
 teste:"https://vipmadagascar.files.wordpress.com/2020/05/madagascar2.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video128/v4/b4/37/5f/b4375f77-dabe-10a8-7908-e812c161bbdf/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/madagascar-3.jpg", MADAGASCAR 3
+#EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video128/v4/b4/37/5f/b4375f77-dabe-10a8-7908-e812c161bbdf/source/600x600bb.jpg" /02/madagascar-3.jpg", MADAGASCAR 3
 teste:"https://vipmadagascar.files.wordpress.com/2020/05/madagascar3.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video62/v4/a6/7d/31/a67d31e7-6b07-1520-f77c-9b345013207c/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://jx7home.files.wordpress.com/2021/02/goos-1.jpg", GOOSEBUMPS
 teste:"https://newfilmesmovie.files.wordpress.com/2020/02/goosebumpsmonstrosearrepios.mp4:"
@@ -438,11 +438,11 @@ teste:"https://69267home.files.wordpress.com/2020/04/moglientredoismundos-baixo.
 teste:"https://j299home.files.wordpress.com/2020/05/pe.pequeno.dub_.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is3-ssl.mzstatic.com/image/thumb/Video118/v4/ee/cf/d6/eecfd61d-929f-19b3-5438-889c1d0d7aaa/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", POKÉMON - O PODER DE TODOS
 teste:"https://infantil06art.files.wordpress.com/2020/05/pokemon-baixo.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2020/12/cueca.png" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/cueca.jpg", AS AVENTURAS DO CAPITÃO CUECA
+#EXTINF:-1 tvg-logo="teste:"https://image3home.files.wordpress.com/2020/12/cueca.png" /04/cueca.jpg", AS AVENTURAS DO CAPITÃO CUECA
 teste:"https://infantil04art.files.wordpress.com/2020/05/capitao.cueca_.filme_.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video3/v4/f7/25/28/f725287a-69ef-c3fc-e740-81a818f0db26/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", A CASA MONSTRO
 teste:"https://top15data.files.wordpress.com/2021/03/casa-monstro-dub.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/03/art.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", DEU A LOUCA NA CHAPEUZINHO
+/03/art.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", DEU A LOUCA NA CHAPEUZINHO
 teste:"https://infantil07art.files.wordpress.com/2020/05/deu.a.louca_.na_.chapeuzinho.dublado.avi
 #EXTINF:-1 tvg-logo="teste:"https://ottvsimg.ottvs.com.br/cov/uni.059388/0059388_335.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", AS AVENTURAS DE PEABODY E SHERMAN
 teste:"https://baixarfilmesart.files.wordpress.com/2020/01/www.mega-debrit.com_602439003_as.aventuras.de_.peabody.e.sherman.mp4:".dub_.baixarseriesmp4:".com_.mp4:"
@@ -463,15 +463,15 @@ teste:"https://infantil05art.files.wordpress.com/2020/05/lilo.e.stitch.2002.dubl
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200603_192217.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://tofdata.files.wordpress.com/2021/01/imperador.jpg", A NOVA ONDA DO IMPERADOR
 teste:"https://infantil03art.files.wordpress.com/2020/05/200.mp4:"
 
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/05/bambi.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/bambi.jpg", BAMBI
+/05/bambi.jpg" /05/bambi.jpg", BAMBI
 teste:"https://infantil04art.files.wordpress.com/2020/05/bambi.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/05/hercules-1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/hercules.jpg", HÉRCULES
+/05/hercules-1.jpg" /05/hercules.jpg", HÉRCULES
 teste:"https://3st02.files.wordpress.com/2021/06/hercules-dub.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is5-ssl.mzstatic.com/image/thumb/Video62/v4/80/63/61/80636131-712d-6ef2-4691-fde267db4048/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", TARZAN
 teste:"https://crisenasinfinitasterrasart.files.wordpress.com/2020/01/www.mega-debrit.com_d82438981_tarzan.mp4:".dub_.baixarseriesmp4:".com_.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video62/v4/1b/ab/db/1babdb81-17bd-ff2a-fbfe-c40cfb84664d/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/vaca.jpg", NEM QUE A VACA TUSSA
+#EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video62/v4/1b/ab/db/1babdb81-17bd-ff2a-fbfe-c40cfb84664d/source/600x600bb.jpg" /04/vaca.jpg", NEM QUE A VACA TUSSA
 teste:"https://infantil09data.files.wordpress.com/2020/07/nem-que-a-vaca-tussa-2004.avi
-#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/04/20200407_001928.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/sapo.jpg", A PRINCESA E O SAPO
+#EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/04/20200407_001928.jpg" /02/sapo.jpg", A PRINCESA E O SAPO
 teste:"https://top15data.files.wordpress.com/2021/03/princesa-e-o-sapo-dub.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200603_191209.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/alice-2.png", ALICE NO PAIS DAS MARAVILHAS (1951)
 teste:"https://ia601502.us.archive.org/7/items/kgpyswibxohohdkb/Alice%20no%20Pais%20das%20Maravilhas%20%281951%29.avi
@@ -495,7 +495,7 @@ teste:"https://j299home.files.wordpress.com/2020/05/sing.mp4:"
 teste:"https://i21home.files.wordpress.com/2020/04/pets-a-vida-secreta-dos-bichos-2016-bluray-720p-dublado-tpf.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://theimg0data.files.wordpress.com/2020/06/20200603_190056.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/pets-2.png", PETS: A VIDA SECRETA DOS BICHOS 2
 teste:"https://filme4movie.files.wordpress.com/2020/10/pets2-dublado.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://github.com/willianlira26/FILMES/releases/download/02/20210317_003020.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/02/20210317_003020.jpg", UMA CILADA PARA ROGER RABBIT
+/02/20210317_003020.jpg" /02/20210317_003020.jpg", UMA CILADA PARA ROGER RABBIT
 teste:"https://mrdjjs.files.wordpress.com/2021/03/roger-rabbit-dublado.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video69/v4/79/5a/3d/795a3dfe-48ce-7bd7-cecb-6cfe81ae86d9/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/robos.png", ROBÔS
 teste:"https://assistirfilmes1.files.wordpress.com/2019/11/robosdublado.avi
@@ -513,10 +513,10 @@ teste:"https://assistirfilmes1.files.wordpress.com/2019/11/stuarlittle2.mp4:"
 teste:"https://1filmeinfantis.files.wordpress.com/2019/12/mulan-baixo.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is1-ssl.mzstatic.com/image/thumb/Video3/v4/05/d9/18/05d9188c-6a12-90b6-be91-8b23150c51ba/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/festa.png", FESTA NO CÉU
 teste:"https://8iogame.files.wordpress.com/2020/04/festa-no-cc3a9u-2014-720p-dublado-alan_680.mp4:"
-#EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video115/v4/15/aa/55/15aa550e-7887-dcdb-ae0d-87c85f157118/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/05/akira.jpg", AKIRA
+#EXTINF:-1 tvg-logo="teste:"https://is2-ssl.mzstatic.com/image/thumb/Video115/v4/15/aa/55/15aa550e-7887-dcdb-ae0d-87c85f157118/source/600x600bb.jpg" /05/akira.jpg", AKIRA
 teste:"https://filmes3movie.files.wordpress.com/2020/09/akira-1988-blu-ray-720p-dublado-top-filmes-torrents.mp4:"
 
-#EXTINF:-1 tvg-logo="teste:"https://chefaodata.files.wordpress.com/2020/10/20200309-poster.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/06/chirio.jpg", A VIAGEM DE CHIHIRO
+#EXTINF:-1 tvg-logo="teste:"https://chefaodata.files.wordpress.com/2020/10/20200309-poster.jpg" /06/chirio.jpg", A VIAGEM DE CHIHIRO
 teste:"https://mansaoblyart.files.wordpress.com/2020/10/a-viagem-de-chihiro-2001.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://chefaodata.files.wordpress.com/2020/10/49urnjmq6dxpkmvxml3d3vru0u1.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", DA COLINA KOKUKIRO
 teste:"https://ghiblicode.files.wordpress.com/2020/09/colinakokukiro.mp4:"
@@ -532,7 +532,7 @@ teste:"https://ghiblicode.files.wordpress.com/2020/09/o-servico-de-entregas-da-k
 teste:"https://filmes3movie.files.wordpress.com/2020/09/ponyo-dublado.avi
 #EXTINF:-1 tvg-logo="teste:"https://chefaodata.files.wordpress.com/2020/10/porco_rosso_poster_do_filme.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://image3home.files.wordpress.com/2020/12/porco.png", PORCO ROSSO: O PORCO VOADOR
 teste:"https://filmes3movie.files.wordpress.com/2020/09/porco-rosso-dublado.avi
-#EXTINF:-1 tvg-logo="teste:"https://chefaodata.files.wordpress.com/2020/10/20200319-tumulo-dos-vagalumes-papo-de-cinema-cartaz.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="teste:"https://github.com/willianlira26/FILMES/releases/download/04/vagalume.jpg", TÚMULO DE VAGALUMES
+#EXTINF:-1 tvg-logo="teste:"https://chefaodata.files.wordpress.com/2020/10/20200319-tumulo-dos-vagalumes-papo-de-cinema-cartaz.jpg" /04/vagalume.jpg", TÚMULO DE VAGALUMES
 teste:"https://ghiblicode.files.wordpress.com/2020/09/tumulodevagalumes.mp4:"
 #EXTINF:-1 tvg-logo="teste:"https://is4-ssl.mzstatic.com/image/thumb/Video127/v4/83/50/85/835085d6-483d-7753-6101-0c5eaa6c2c30/source/600x600bb.jpg" group-title="ANIMAÇÃO/FAMÍLIA" background="httt", BATMAN E ARLEQUINA - PANCADAS E RISADAS
 teste:"https://filmesdc02movie.files.wordpress.com/2020/05/batmanalerquinadub-baixo.mp4:"
