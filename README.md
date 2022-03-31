@@ -1,42 +1,4 @@
-/09/injustica" /09/injustice", INJUSTICE (DUB)
-teste:"https://frugf.files.wordpress.com/2021/10/injustice-dub.mp4:"
-#EXTINF:-1 tvg-logo="https://github.com/willianlira26/FILMES/releases/download/09/013138" /09/013243", BEN 10: EXTINÇÃO ALIENÍGENA (DUB)
-teste:"teste:"https://midmasd1.files.wordpress.com/2021/10/ben-10-novo.mp4:"
-/08/scooby-coragem" /08/scooby-coragem", SCOOBY-DOO ENCONTRA CORAGEM O CÃO COVARDE (DUB)
-teste:"https://5hdjd.files.wordpress.com/2021/09/scooby-e-coragem.mp4:"
-/07/pedro2" /07/pedro2", PEDRO COELHO 2: O FUGITIVO (DUB)
-teste:"https://277mai.files.wordpress.com/2021/08/pedro-coelho-2-dublado.mp4:"
-/07/vivo1" /07/vivo2", A JORNADA DE VIVO (DUB)
-teste:"https://jdbsf.files.wordpress.com/2021/08/a-jornada-de-vivo-dub.mp4:"
-/07/jc" /07/juc1", JUNGLE CRUISE (DUB)
-teste:"https://227bty.files.wordpress.com/2021/08/jungle-cruise-dublado.mp4:"
-/03/sj2" /07/space-2", SPACE JAM: UM NOVO LEGADO (DUB)
-teste:"https://897bty.files.wordpress.com/2021/07/space-jam-2-dub.mp4:"
-/05/olongodiadasbruxas1" /06/batmanlongodiadasbruxas", BATMAN: O LONGO DIA DAS BRUXAS - PARTE 1 (DUB)
-teste:"https://278edu.files.wordpress.com/2021/07/batman-longo-dia-das-bruxas-1-dub.mp4:"
-/05/olongodiadasbruxas2" /05/olongodiadasbruxas2", BATMAN: O LONGO DIA DAS BRUXAS - PARTE 2 (DUB)
-teste:"https://all5854.files.wordpress.com/2021/09/batman-longo-dia-das-bruxas-2-dub.mp4:"
-/05/luca-p" /05/luca", LUCA (DUB)
-teste:"https://jsjdhdf.files.wordpress.com/2021/06/luca-dub.mp4:"
-/04/-poster" /06/cruella", CRUELLA (DUB)
-teste:"https://2721data.files.wordpress.com/2021/05/cruella-dublado.mp4:"
-/03/mitchell-p" /05/mitchell", A FAMÍLIA MITCHELL E A REVOLTA DAS MÁQUINAS (DUB)
-teste:"https://weim37.files.wordpress.com/2021/05/a-familia-mitchell-ea-revolta-das-maquinas-dub.mp4:"
-/03/croods2" /03/croods2", OS CROODS 2: NOVA ERA (DUB)
-teste:"https://thejsjsg.files.wordpress.com/2021/04/os-croods-2-dublado.mp4:"
-/02/big-pai-filho-2" /02/big-pai-filho-2", BIG PAI BIG FILHO 2
-teste:"https://acao2data.files.wordpress.com/2021/03/big-pai-big-filho-2-dub.mp4:"
-/02/pinoquio" /02/pinoquio", PINÓQUIO (2019)
-teste:"https://mrdjjs.files.wordpress.com/2021/03/pinoquio-dub.mp4:"
-://jx7home.files.wordpress.com/2021/02/img_20210205_131127" /03/raya-1", RAYA E O ÚLTIMO DRAGÃO (DUB)
-teste:"https://top13u.files.wordpress.com/2021/03/raya-eo-ultimo-dragao-dub.mp4:"
-://jx7home.files.wordpress.com/2021/02/20210205_130928" /03/tej", TOM E JERRY O FILME (DUB)
-teste:"https://mrdjjs.files.wordpress.com/2021/03/tom-e-jerry-2021-dub.mp4:"
-://jx7home.files.wordpress.com/2021/02/wolfwalkers"background="teste:"https://jx7home.files.wordpress.com/2021/02/wolfwalkers", WOLFWALKERS (DUB)
-teste:"https://top3data.files.wordpress.com/2021/02/wolfwalkers-dublado.mp4:"
-://image3home.files.wordpress.com/2021/01/20210124_122135" /03/trolls-2", TROLLS 2 (DUB)
-teste:"https://thechocolate8.files.wordpress.com/2021/01/trolls-2-dublado.mp4:"
-://jx7home.files.wordpress.com/2021/02/20210226_012655" /05/soul", SOUL (DUB)
+SOUL (DUB)
 teste:"https://filmes15movie.files.wordpress.com/2020/12/soul-dublado.mp4:"
 ://filmes14movie.files.wordpress.com/2020/12/3"background="teste:"https://filmes14movie.files.wordpress.com/2020/12/3", LEGO STAR WARS - ESPECIAL DE NATAL (DUB)
 teste:"https://filmes14movie.files.wordpress.com/2020/12/lego-star-wars-especial-de-natal.mp4:"
