@@ -1,1 +1,5 @@
-m
+http://direct.safone.me/1213626/The_Spectacular_Spider_Man_S01E08_1080p_BluRay_x264_DEiMOS_Yatogam1.mkv?hash=AgAD0Q
+http://direct.safone.me/1213624/The_Spectacular_Spider_Man_S01E06_1080p_BluRay_x264_DEiMOS_Yatogam1.mkv?hash=AgADyw
+http://direct.safone.me/1213628/The_Spectacular_Spider_Man_S01E07_1080p_BluRay_x264_DEiMOS_Yatogam1.mkv?hash=AgADzA
+http://direct.safone.me/1213629/The_Spectacular_Spider_Man_S01E09_1080p_BluRay_x264_DEiMOS_Yatogam1.mkv?hash=AgAD1Q
+http://direct.safone.me/1213632/The_Spectacular_Spider_Man_S01E10_1080p_BluRay_x264_DEiMOS_Yatogam1.mkv?hash=AgAD1g
